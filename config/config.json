@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe8a0f99f6a7b8e2ed7f1b6146b005ea4bca0df2d",
+  "SCAN_LINK": "https://bscscan.com/address/0xe8a0f99f6a7b8e2ed7f1b6146b005ea4bca0df2d",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Bored Ape Yacht Club BSC",
+  "SYMBOL": "BAYCB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/bsc/0xe8a0f99f6a7b8e2ed7f1b6146b005ea4bca0df2d",
+  "SHOW_BACKGROUND": true
+}
